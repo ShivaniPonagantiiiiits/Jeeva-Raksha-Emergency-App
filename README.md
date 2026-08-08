@@ -63,7 +63,9 @@ Emergency contact information and location values in this public repository have
 - Integrate health sensors for real-time monitoring
 - Store and manage emergency contacts securely
 - Improve validation and error handling
+## Application Preview
 
+![Jeeva Raksha Application](jeeva-raksha-app.png)
 ## Author
 
 **Shivani Ponaganti**
